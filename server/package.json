@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "proxy": "http://localhost:5000/",
+  "proxy": "http://localhost:5173/",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
